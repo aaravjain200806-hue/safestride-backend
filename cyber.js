@@ -1,4 +1,3 @@
-cyber.js
 import { Pinecone } from '@pinecone-database/pinecone';
 import Groq from 'groq-sdk';
 import cors from 'cors';
