@@ -1,4 +1,3 @@
-content.js
 document.addEventListener('click', function(e) {
     const anchor = e.target.closest('a');
     
